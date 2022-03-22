@@ -1,2 +1,2 @@
-# Recepies
+# Recipies
 Een WINC opdracht.
